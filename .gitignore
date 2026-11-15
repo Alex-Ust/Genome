@@ -1,0 +1,11 @@
+*.fastq
+*.fastq.gz
+*.fna
+*.fna.gz
+*.zip
+*.o
+*.dSYM/
+.DS_Store
+mapper
+
+mapper

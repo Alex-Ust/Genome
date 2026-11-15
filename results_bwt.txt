@@ -1,0 +1,60 @@
+Index: bwt (k = 16)
+Genome length: 4641652
+Index build time: 1.65 sec
+Index memory: 23.2 MB
+Mapping time: 1181.1 sec
+
+Total reads: 22720100
+Trimmed reads: 3984635 (17.54%)
+Mapped reads: 22617983 (99.55%)
+Unique: 22191257 (97.67%)
+Multi-mapped: 426726 (1.88%)
+Unmapped reads: 102117 (0.45%)
+
+Unmapped because:
+too short after trim: 79427 (0.35%)
+too many N: 83 (0.00%)
+no seed found: 4738 (0.02%)
+too many errors: 17869 (0.08%)
+
+Forward strand: 11316718 (50.03%)
+Reverse strand: 11301265 (49.97%)
+
+Errors in read, number of reads:
+0 20807716 (92.00%)
+1 1593522 (7.05%)
+2 166638 (0.74%)
+3 32748 (0.14%)
+4 9732 (0.04%)
+5 3657 (0.02%)
+6 1850 (0.01%)
+7 1314 (0.01%)
+8 806 (0.00%)
+
+Identity: 99.904%
+Mismatches: 98.1% of errors
+Insertions: 0.6% of errors
+Deletions: 1.4% of errors
+
+Mean coverage: 473.0
+
+Coverage, number of genome positions:
+0 754 (0.016%)
+1 403 (0.009%)
+2 583 (0.013%)
+3 293 (0.006%)
+4 299 (0.006%)
+5 268 (0.006%)
+6 338 (0.007%)
+7 167 (0.004%)
+8 234 (0.005%)
+9 295 (0.006%)
+10+ 4638018 (99.922%)
+
+Regions with zero coverage:
+283714 - 284217, length 504
+284526 - 284592, length 67
+284902 - 284991, length 90
+287623 - 287668, length 46
+523642 - 523687, length 46
+3424237 - 3424237, length 1
